@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "brnzl",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -44,7 +44,7 @@
 	},
 	"fetch": {
 		"timeFormat": "HH:mm",
-		"dateFormat": "DD/MM/YYYY",
+		"dateFormat": "YYYY-MM-DD",
 		"titleColor": "yellow",
 		"image": "assets/default-icon.svg",
 		"data": [
@@ -115,7 +115,7 @@
 				"links": [
 					{
 						"name": "Portfolio",
-						"url": "https://cancellek.com",
+						"url": "https://branzell.kim",
 						"icon": "mdi:web"
 					},
 					{
@@ -127,16 +127,11 @@
 						"name": "GPT",
 						"url": "https://chat.openai.com/",
 						"icon": "simple-icons:openai"
-					},
-					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
 					}
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "Webbutveckling",
 				"color": "magenta",
 				"align": "left",
 				"links": [
@@ -146,19 +141,13 @@
 						"icon": "mdi:github"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Hostup",
+						"url": "https://hostup.se",
+						"icon": "iconoir:www"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
-					},
-					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Strato",
+						"url": "https://www.strato.se"
 					}
 				]
 			},
@@ -174,7 +163,7 @@
 					},
 					{
 						"name": "Mastodon",
-						"url": "https://mastodon.social/",
+						"url": "https://ieji.de/",
 						"icon": "ri:mastodon-fill"
 					},
 					{
@@ -183,9 +172,9 @@
 						"icon": "mdi:reddit"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "Facebook",
+						"url": "https://facebook.com",
+						"icon": "mdi:facebook"
 					}
 				]
 			},
@@ -213,33 +202,6 @@
 						"name": "80lv",
 						"url": "https://80.lv/",
 						"icon": "tabler:hand-rock"
-					}
-				]
-			},
-			{
-				"title": "Science",
-				"color": "blue",
-				"align": "left",
-				"links": [
-					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
-					},
-					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
-					},
-					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
 					}
 				]
 			},
